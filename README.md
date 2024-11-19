@@ -1,16 +1,23 @@
-## Hi there 👋
+## Oi 👋
 
-<!--
-**Luydson25/Luydson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código.
+<br>
+<br>
+Eu sou o Luydson Leocadio, sou um Programador Front- end, Atualmente estou aprendendo e criando Projetos com :
+<br>
+<br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 
-Here are some ideas to get you started:
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+ 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
+
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-logo" />
+ 
+![Luydson25 stats](https://github-readme-stats.vercel.app/api?username=Luydson25)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
